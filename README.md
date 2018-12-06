@@ -1,0 +1,2 @@
+# MinWageSim
+Minimum Wage Simulator
