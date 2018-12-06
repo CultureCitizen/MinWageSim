@@ -1,0 +1,22 @@
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MinWageApp.csprojAssemblyReference.cache
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MinWage.MainForm.resources
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PickValueForm.resources
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MinWageApp.csproj.GenerateResource.cache
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MinWageApp.csproj.CoreCompileInputs.cache
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\atorr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.csprojAssemblyReference.cache
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\bin\Debug\MinWageApp.exe.config
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\bin\Debug\MinWageApp.exe
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\bin\Debug\MinWageApp.pdb
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.MainForm.resources
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.PickValueForm.resources
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.Properties.Resources.resources
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.csproj.GenerateResource.cache
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.csproj.CoreCompileInputs.cache
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.exe
+D:\Users\adela\Documents\Visual Studio 2017\Proyects\MinWageSim\MinWageApp\obj\Debug\MinWageApp.pdb
